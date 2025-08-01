@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         PROJECT_NAME = "E-commerce-project-springBoot"
-        GITHUB_REPO_URL = "https://github.com/IamY0uu/E-commerce-project-springBoot.git"
+        GITHUB_REPO_URL = "https://github.com/jaygajera17/E-commerce-project-springBoot.git"
     }
 
     stages {
